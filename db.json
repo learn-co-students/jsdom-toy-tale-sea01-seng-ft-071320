@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 6
     },
     {
       "id": 2,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Cinderella",
+      "image": "https://pbs.twimg.com/profile_images/378800000281231163/432aebd77f044ab68f7d167e26f9bd95_400x400.jpeg",
+      "likes": 7,
+      "id": 9
+    },
+    {
+      "name": "Bart Simpson",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/aa/Bart_Simpson_200px.png",
+      "likes": 8,
+      "id": 10
     }
   ]
 }
